@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love coding.<br>My Biggest Project Is Instagram Automation Python Script.<br>I am always to eager to put my imagination into reality. <br>
+I love coding.<br>My Biggest Project Is Instagram Automation Python Script.<br>I am always eager to put my imagination into reality. <br>
 
 
 ## 🌐 Socials:
